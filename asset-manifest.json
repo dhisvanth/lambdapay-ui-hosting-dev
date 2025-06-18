@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/lambdapay-ui-hosting-dev/static/css/main.88e71da8.css",
-    "main.js": "/lambdapay-ui-hosting-dev/static/js/main.03500906.js",
+    "main.js": "/lambdapay-ui-hosting-dev/static/js/main.b5670a78.js",
     "index.html": "/lambdapay-ui-hosting-dev/index.html",
     "main.88e71da8.css.map": "/lambdapay-ui-hosting-dev/static/css/main.88e71da8.css.map",
-    "main.03500906.js.map": "/lambdapay-ui-hosting-dev/static/js/main.03500906.js.map"
+    "main.b5670a78.js.map": "/lambdapay-ui-hosting-dev/static/js/main.b5670a78.js.map"
   },
   "entrypoints": [
     "static/css/main.88e71da8.css",
-    "static/js/main.03500906.js"
+    "static/js/main.b5670a78.js"
   ]
 }
